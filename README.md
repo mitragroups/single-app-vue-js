@@ -4,7 +4,7 @@ Front-end Vue.js application for the Fishub API.
 
 ## Author
 
-Miftah MD [Single App Vue Js](http://sumateradev.com)
+[Miftah MD](http://sumateradev.com)
 
 ## Setup
 
